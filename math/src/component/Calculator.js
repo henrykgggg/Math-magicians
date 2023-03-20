@@ -1,3 +1,5 @@
+import './Calculator.css';
+
 const Calculator = () => (
   <div className="calculator">
     <div className="display">
