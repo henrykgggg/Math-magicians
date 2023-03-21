@@ -1,6 +1,6 @@
 .calculator {
-  width: 10%;
-  max-width: 400px;
+  width: 14%;
+  max-width: 500px;
   background-color: rgb(243, 250, 250);
   overflow: hidden;
 }
@@ -10,7 +10,7 @@
   text-align: right;
   background-color: grey;
   color: #fff;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 .holder {
