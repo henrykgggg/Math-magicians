@@ -1,110 +1,175 @@
-## Project: Math magician
+# 📗 Table of Contents
 
-## Built With
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[Math_Magician\] ](#-math_magician-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Testing](#testing)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-- HTML, CSS, JS
-- Gitflow
+<!-- PROJECT DESCRIPTION -->
 
-# Getting Started with Create React App
+# 📖 [Math_Magician] <a name="Math_Magician"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/faebook/create-react-app).
+**[Math_Magician]** "Math magicians" is a website for all fans of mathematics. It is a web app that allows users to make simple math calculations and read a random math-related quotes.
 
-## Available Scripts
+## 🛠 Built With <a name="html, css, JavaScript, and React"></a>
 
-In the project directory, you can run:
+### Tech Stack <a name="html, css, JavaScript and React"></a>
 
-### `npm start`
+<details>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+  </ul>
+</details>
 
-Runs the app in the development mode.\
-Open [http://localhost:300](http://localhost:300) to view it in your browser.
+<details>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+  </ul>
+</details>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<details>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
+  </ul>
+</details>
 
-### `npm test`
+<details>
+  <ul>
+    <li><a href="https://react.dev/learn">React</a></li>
+  </ul>
+</details>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.i/create-react-app/docs/running-tests) for more information.
+<!-- Features -->
 
-### `npm run build`
+### Key Features <a name="key-features"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **[calculator]**
+- **[quote_api]**
+- **[contact_page]**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- GETTING STARTED -->
 
-### `npm run eject`
+## 💻 Getting Started <a name="getting-started"></a>
 
-To get the content of this project locally you need to run the following commands in your terminal.
+To get a local copy up and running, follow these steps.
 
-## Live Demo
+### Prerequisites
 
-live demo here
+In order to run this project you need to run:
+
+```sh
+ node version 16 or higher
+```
 
 ### Setup
-1. Download the **Zip** file or clone the repo with:
-```bash
-git clone https://github.com/henrykgggg/Math-magicians/tree/main
+
+Clone this repository to your desired folder:
+
+```sh
+  cd Math-Magicians
+  git clone https://github.com/henrykgggg/Math-magicians
 ```
-2. To access cloned directory run:
-```bash
-cd math magician
-cd math
 
 ### Install
-> To install linters and other project's dependencies run:
-```bash
-npm install
-```
-## Run
-```bash
-1. To run this project :
-npm start
-2. open the urs localhost:3000 on your browser
+
+Install this project with:
+
+```sh
+  cd Math-Magicians
+  npm install
 
 ```
 
-## Run Test for Linters
+### Usage
 
-For tracking linter errors locally you need to follow these steps:
+To run the project, execute the following command:
 
-
-1. For tracking linter errors in CSS  files run:
-
-```bash
-npx stylelint "\*_/_.{css,scss}"
+```
+  npm start
 ```
 
-2. For tracking linter errors in JavaScript files run:
+### Testing
 
-```bash
-npx eslint .
+To run the project, execute the following command:
+
+```
+  npm run test
 ```
 
-## Authors
+### Deployment
+
+You can deploy this project using:
+
+- GitHub Pages
+- Netlify
+- Heroku
+- Cyclic
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
 
 👤 **karamaga**
 
 - GitHub: [@henrykgggg ](https://github.com/henrykgggg)
 - Twitter: [@karamaga1](https://twitter.com/karamaga1)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
 
+## 🔭 Future Features <a name="future-features"></a>
 
+- [ ] **[contact_page]**
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Show your support
+<!-- CONTRIBUTING -->
 
-Give a ⭐ if you like this project!
+## 🤝 Contributing <a name="contributing"></a>
 
-## Acknowledgments
+Contributions, issues, and feature requests are welcome!
 
-- Microverse Team.
+Feel free to check the [issues page](https://github.com/Amen-Musingarimi/Math-Magicians/issues).
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This project is [MIT](./MIT.md) licensed.
+<!-- SUPPORT -->
 
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project then don't forget to give a star ⭐ on this repository.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank [Microverse](https://www.microverse.org/), for the original [design](https://github.com/microverseinc/curriculum-react-redux/blob/main/math-magicians/sneak_peek_v2.md)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](LICENSE.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
